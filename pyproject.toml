@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cleardose"
+version = "0.1.0"
+description = "ClearDose — plain-language prescription explanations built with the Strands Agents SDK. Advisory only, not medical advice."
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.11"
+dependencies = [
+    "strands-agents==1.62.0",
+    "requests>=2.32",
+    "boto3>=1.35",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "pillow>=10"]
+
+[project.scripts]
+cleardose = "cleardose.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
