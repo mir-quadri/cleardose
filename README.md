@@ -139,14 +139,15 @@ as the earlier project's map (same 10 canonical names), recreated in
 Python, except the multi-word alias "bayer aspirin" was dropped.
 See `docs/ORIGINALITY.md`.
 
-## Remaining gates (not done — see docs/WORKSHOP-GATE.md)
+## Gates closed Nov 4, 2026 (see docs/WORKSHOP-GATE.md)
 
-- Strands workshop completion, Oct 28–Nov 4, 2026 — required to
-  qualify; cannot be completed before Oct 28.
-- Public repository link, public demo video under 3 minutes, and
-  Builder Center article — drafts in `docs/`; nothing published yet.
-- Mir's approval of the exact article and video wording before
-  anything is submitted or published.
+- Strands workshop completion, Oct 28–Nov 4, 2026 — Mir reported
+  completion Nov 4, 2026, within the window.
+- Public repository: https://github.com/mir-quadri/cleardose
+- Public demo video (2:21, under 3 minutes):
+  https://www.youtube.com/watch?v=zCWW9PR4ILs
+- Remaining: Builder Center article publication + submission
+  (needs Mir's Builder Center sign-in).
 
 ## License
 

@@ -116,14 +116,12 @@ agent I build next.
 ## Try it
 
 Public repository: https://github.com/mir-quadri/cleardose
-[Demo video link — TO BE ADDED after the video is recorded and
-published and Mir approves]
+Demo video: https://www.youtube.com/watch?v=zCWW9PR4ILs (public, 2:21, published Nov 4, 2026, AI disclosure on)
 
-Workshop completion: NOT CLAIMED HERE. Completion during the
-Oct 28–Nov 4, 2026 window is still an open gate (see
-`docs/WORKSHOP-GATE.md` and `SUBMISSION-PACKAGE.md`); do not
-publish this article claiming workshop completion until it is
-verified by Mir.
+Workshop completion: Mir reported completion on Nov 4, 2026,
+within the Oct 28–Nov 4, 2026 window (see
+`docs/WORKSHOP-GATE.md`). Eligibility attestation at submission
+time remains Mir's.
 
 ---
 

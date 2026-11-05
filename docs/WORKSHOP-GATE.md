@@ -1,6 +1,6 @@
-# OPEN GATE — Strands workshop completion (required to qualify)
+# CLOSED GATE — Strands workshop completion (Mir-reported)
 
-Status: NOT COMPLETED. Not claimed anywhere in this repository.
+Status: COMPLETED per Mir's report on 2026-11-04 ~21:29 ET ("Workshop is done — proceed with Strands"). Recorded by Bacche on Mir's report; Bacche has no Builder Center access and did not independently verify completion inside Builder Center — the Builder Center submission step itself will confirm eligibility at submission time.
 
 Challenge requirement (About page, "How to qualify", re-read live
 2026-10-26): "Complete the free Strands SDK workshop on Builder
@@ -23,6 +23,13 @@ requested the free sandbox environment (steps 1–3 done). Step 4 —
 completing the seven modules (~2 hours) — is IN PROGRESS, not
 complete. Do not mark this gate complete until Mir reports finishing
 all modules.
+
+Progress update 2026-11-04 ~21:29 ET: Mir reported "Workshop is
+done — proceed with Strands" in the hackathon chat. Gate recorded
+as COMPLETED on that report, within the Oct 28–Nov 4 window.
+Independent Builder Center verification was not performed by
+Bacche (no Builder Center access); eligibility attestation at
+submission time remains Mir's.
 
 PASS/FAIL — NO EXCEPTIONS (rules alignment, 2026-10-30, from the
 official Strands pages as read in a browser): the free "Building
